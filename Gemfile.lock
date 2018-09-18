@@ -16,6 +16,8 @@ GEM
       rspec-support (~> 3.4.0)
     rspec-support (3.4.1)
 
+    my-new-file.txt
+
 PLATFORMS
   ruby
 
